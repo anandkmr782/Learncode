@@ -1,0 +1,43 @@
+.feed1{
+    background-color: seashell;
+    margin-top: 0px;
+    padding: 5px;
+    border-radius: 6px;
+    margin-left: 5px;
+    box-shadow: 5px 5px plum;
+    border-color: red;    
+}
+div.feed1{
+    background-color:wheat;
+    width: 11%;
+    height: 730px;
+    overflow: scroll;
+}
+.feed1 h3{
+    text-align: center;
+}
+
+.feed1 ul li{
+    list-style-type: none; 
+    font-size: 17px;   
+}
+.feed1 ul:hover{
+    list-style-type: none;
+    background: plum;
+    border-radius: 4px;
+}
+.content12{
+    margin-left: 165px;
+    margin-top: -730px;
+    padding: 5px;
+    text-align: center;
+    box-shadow: 5px 5px plum;
+    background-color:seashell;
+    border-color: red;
+}
+ div.content12 {
+    background-color: seashell;
+    width: 90%;
+    height: 730px;
+    overflow:scroll;
+  } 

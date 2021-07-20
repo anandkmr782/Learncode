@@ -1,0 +1,24 @@
+.form{
+    width: 100%;
+    height: 800px;
+    background-color: peru;
+    margin-left: 0px;
+    margin-top: 1px;
+    border-radius: 15px;
+    border-color: black;
+}
+carousel-inner img{
+    width: fit-content;
+    height: fit-content;
+    background-color: cornflowerblue;
+}
+div.form{
+    overflow: hidden;
+}
+.card-action .card{
+    width: 18rem;
+    padding: 5px;
+}
+.form button{
+    margin-top: -300px;
+}
